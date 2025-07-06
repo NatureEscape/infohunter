@@ -1,8 +1,5 @@
 # infohunter
 A Termux-based tool for HTTP header grabbing
-# infohunter
-
-A Termux-based tool for HTTP header grabbing.
 
 ## 📦 Features:
 - Grab HTTP Headers of any website
